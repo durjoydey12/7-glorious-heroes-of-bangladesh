@@ -21,7 +21,7 @@
                         <br><br>
                       
                        
-                          <img src="images/36.jpg"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Mohammad Ruhul Amin</h2></b>
+                          <img src="images/35.jpg"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Mohammad Ruhul Amin</h2></b>
                     
                       
                         </div>

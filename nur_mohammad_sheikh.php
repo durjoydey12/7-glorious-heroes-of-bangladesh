@@ -21,7 +21,7 @@
                         <br><br>
                       
                        
-                          <img src="images/45.jpg"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Nur Mohammad Sheikh</h2></b>
+                          <img src="images/44.jpg"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Nur Mohammad Sheikh</h2></b>
                     
                       
                         </div>

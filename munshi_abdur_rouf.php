@@ -21,7 +21,7 @@
                         <br><br>
                       
                        
-                          <img src="images/43.webp"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Munshi Abdur Rouf</h2></b>
+                          <img src="images/42.jpg"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Munshi Abdur Rouf</h2></b>
                     
                       
                         </div>

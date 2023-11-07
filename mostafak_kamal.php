@@ -21,7 +21,7 @@
                         <br><br>
                       
                        
-                          <img src="images/41.jpg"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Mostafa Kamal</h2></b>
+                          <img src="images/40.jpg"  alt="img" alt="img" height="250px" width="250px"> <br><b class="m-0 text-drak"><h2>Mostafa Kamal</h2></b>
                     
                       
                         </div>
