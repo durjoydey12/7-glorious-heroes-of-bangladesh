@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.1
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 05, 2023 at 04:11 PM
--- Server version: 10.4.28-MariaDB
--- PHP Version: 8.2.4
+-- Generation Time: Nov 16, 2023 at 06:14 AM
+-- Server version: 10.4.27-MariaDB
+-- PHP Version: 7.4.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -180,7 +180,7 @@ CREATE TABLE `sliders` (
 --
 
 INSERT INTO `sliders` (`id`, `title`, `image`) VALUES
-(68, ' ', '21.jpg');
+(68, ' ', '47.jpg');
 
 -- --------------------------------------------------------
 
@@ -200,8 +200,7 @@ CREATE TABLE `srevices` (
 --
 
 INSERT INTO `srevices` (`id`, `title`, `text`, `image`) VALUES
-(7, 'Sheikh Hasina', 'Sheikh Hasina was born on 28 September 1947 to the Bengali Muslim Sheikh family of Tungipara in East Bengal.Her father was Bengali nationalist leader Sheikh Mujibur Rahman and her mother was Begum Fazilatunnesa Mujib. She has Iraqi Arab ancestry through both her paternal and maternal sides of family, her clan were direct descendants of Muslim preacher Sheikh Awwal Darwish of Baghdad, who had arrived in Bengal in the Late Mughal Era. ', '28.jpg'),
-(8, 'Sheikh Mujibur Rahman', 'Father of the Nation Bangabandhu Sheikh Mujibur Rahman (1920-1975) is the architect of independent Bangladesh. Born on 17 March 1920 in the village Tungipara under the Gopalganj Sub-division (currently district) in the district of Faridpur, Sheikh Mujibur Rahman’s father, Sheikh Lutfar Rahman, was a serestadar in the civil court of Gopalganj. Sheikh Mujibur Rahman passed his matriculation from Gopalganj Missionary School in 1942, IA (Twelfth Grade) from Islamia College, Calcutta in 1944 and BA f', '29.jpg');
+(8, 'Sheikh Mujibur Rahman', 'Father of the Nation Bangabandhu Sheikh Mujibur Rahman (1920-1975) is the architect of independent Bangladesh. Born on 17 March 1920 in the village Tungipara under the Gopalganj Sub-division (currently district) in the district of Faridpur, Sheikh Mujibur Rahman’s father, Sheikh Lutfar Rahman, was a serestadar in the civil court of Gopalganj. Sheikh Mujibur Rahman passed his matriculation from Gopalganj Missionary School in 1942, IA (Twelfth Grade) from Islamia College, Calcutta in 1944 and BA f', '48.jpg');
 
 -- --------------------------------------------------------
 
