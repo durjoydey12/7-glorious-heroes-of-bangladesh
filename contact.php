@@ -88,7 +88,7 @@
 
 <div id="tooplate_footer_wrapper">
 <div id="tooplate_footer">
-       <b> @pcopweb-2002 <a href="#">7 Glorious Heroes of Bangladesh</a></b>
+       <b> <a href="#">7 Glorious Heroes of Bangladesh</a></b>
 </div>
 </div>
 
