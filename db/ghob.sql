@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.0
+-- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 16, 2023 at 06:14 AM
--- Server version: 10.4.27-MariaDB
--- PHP Version: 7.4.33
+-- Generation Time: Nov 19, 2023 at 01:54 PM
+-- Server version: 10.4.28-MariaDB
+-- PHP Version: 8.2.4
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -127,21 +127,21 @@ CREATE TABLE `gallerys` (
 --
 
 INSERT INTO `gallerys` (`id`, `title`, `image`) VALUES
-(7, ' ', '28.jpg'),
-(8, ' ', '29.jpg'),
-(9, ' ', '9.jpg'),
+(7, ' ', '49.jpg'),
+(8, ' ', '50.jpg'),
+(9, ' ', '51.jpg'),
 (10, ' ', 'image82.jpg'),
 (11, ' ', '11.jpg'),
 (12, ' ', '6.jpg'),
-(13, ' ', '1.jpg'),
+(13, ' ', '52.jpg'),
 (14, ' ', '20.jpg'),
-(15, ' ', '9.jpg'),
-(17, ' ', '16.webp'),
-(18, ' ', '10.jpg'),
+(15, ' ', '53.jpg'),
+(17, ' ', '54.webp'),
+(18, ' ', '55.jpg'),
 (19, ' ', '26.jpg'),
-(20, ' ', '1.jpg'),
-(21, ' ', '19p.jpg'),
-(22, ' ', '23.jpg');
+(20, ' ', '56.jpg'),
+(21, ' ', '57.jpg'),
+(22, ' ', '58.jpg');
 
 -- --------------------------------------------------------
 
